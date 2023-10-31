@@ -38,7 +38,6 @@
 
   .main-logo {
     width: 50%;
-    user-drag: none;
     -webkit-user-drag: none;
   }
 

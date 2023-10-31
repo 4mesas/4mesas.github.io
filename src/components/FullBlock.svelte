@@ -10,5 +10,5 @@
   {#if slideData}
     <Slide {slideData}/>
   {/if}
-  <p class="block-content">{mainData[0]['Texto']}</p>
+  <p class="block-content">{@html mainData[0]['Texto']}</p>
 </div>
